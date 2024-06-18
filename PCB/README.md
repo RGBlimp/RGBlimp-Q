@@ -7,6 +7,6 @@
     <sup>Subplate Circuit Board</sup>
 </div>
 
-## EasyPCB
+## EasyEDA
 The PCB project is also open-sourced on
-[EasyPCB](https://oshwlab.com/ericccc413/rgblimp-q_)
+[EasyEDA](https://oshwlab.com/ericccc413/rgblimp-q_)
