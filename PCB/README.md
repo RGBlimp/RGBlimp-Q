@@ -8,5 +8,5 @@
 </div>
 
 ## EasyPCB
-The PCB project is open-sourced on
+The PCB project is also open-sourced on
 [EasyPCB](https://oshwlab.com/ericccc413/rgblimp-q_)
