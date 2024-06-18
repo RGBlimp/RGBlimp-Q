@@ -6,3 +6,7 @@
     <img src="PCB_RGBlimp-Q_Subplate_2D.png" width="80%"><br/>
     <sup>Subplate Circuit Board</sup>
 </div>
+
+## EasyPCB
+The PCB project is open-sourced on
+[EasyPCB](https://oshwlab.com/ericccc413/rgblimp-q_)
