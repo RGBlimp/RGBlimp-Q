@@ -9,7 +9,7 @@ These are the hardware and code for RGBlimp-Q.
 * [Paper](https://arxiv.org/abs/2406.10810)
 * [Video](https://www.youtube.com/watch?v=yA_nncO6qE4)
 
-# Demonstration
+# Demonstrations
 ### Robust Flight Against Wind
 <div align="center">
     <img src="doc/GIF_EX3.gif" width="100%"><br/>
