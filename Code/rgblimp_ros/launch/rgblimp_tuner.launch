@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- RGBlimp-Q PID Tuner -->
+  <node name="rgblimp_tuner" pkg="rgblimp" type="rgblimp_tuner.py" output="screen"/>
+  
+  <!-- rqt_plot -->
+  <node name="rgblimp_config" pkg="rqt_plot" type="rqt_plot" output="screen" args="/Config/x /Config/y"/>
+  
+</launch>
+

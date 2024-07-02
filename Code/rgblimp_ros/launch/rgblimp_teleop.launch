@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- RGBlimp-Q Keyboard -->
+
+  <!-- Ros+Esp -->
+  <node name="RGBlimp" pkg="rosserial_python" type="serial_node.py" args="tcp 11411"  output="screen"/>
+  
+  <!-- rgblimp_keyboard -->
+  <node name="rgblimp_keyboard" pkg="rgblimp" type="rgblimp_keyboard.py" output="screen"/>
+  
+</launch>
+
