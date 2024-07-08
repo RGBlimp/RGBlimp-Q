@@ -32,6 +32,7 @@ To install rosserial arduino library for Arduino IDE, follow these steps:
 ###### * See [Installing Guides](https://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup) for more details on how to install the rosserial arduino library for Arduino IDE. 
 
 ## ROS Package
+This ROS package has been tested with ROS Melodic under Ubuntu 18.04. 
 ```
 # Copy rgblimp_ros to catkin workspace
 
