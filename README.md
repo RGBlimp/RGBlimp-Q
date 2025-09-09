@@ -8,7 +8,7 @@ These are the hardware and code for RGBlimp-Q.
 
 * [Project Page](https://RGBlimp.github.io)
 * [Paper](https://arxiv.org/abs/2406.10810)
-* [Video](https://www.youtube.com/watch?v=yA_nncO6qE4)
+* [Video](https://youtu.be/U8VfF37lHvU)
 
 # Demonstrations
 ### Robust Flight Against Wind
