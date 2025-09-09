@@ -1,6 +1,6 @@
 # RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=yA_nncO6qE4" target="_blank"><img src="https://img.youtube.com/vi/yA_nncO6qE4/maxresdefault.jpg" 
+    <a href="https://www.youtube.com/watch?v=U8VfF37lHvU" target="_blank"><img src="https://img.youtube.com/vi/U8VfF37lHvU/maxresdefault.jpg" 
 alt="RGBlimp-Q" width="100%" border="0" /></a>
 </div>
 
